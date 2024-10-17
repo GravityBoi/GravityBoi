@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Max ⚡️
 
-![Will Smith Eating Spaghetti](https://media.tenor.com/ZjJu5GKktKAAAAAM/will-smith-eating-spaghetti.gif)
+![Will Smith Eating Spaghetti](https://github.com/GravityBoi/GravityBoi/blob/main/will-smith-eating-spaghetti-will-smith.gif)
 
 🎓 **Master’s Student** at ETH Zurich, specializing in **Machine Intelligence** with a minor in **Data Management Systems**. I’m super passionate about **Data Science**, **AI**, and solving real-world problems with code. 🚀
 
