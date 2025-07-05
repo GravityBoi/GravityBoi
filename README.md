@@ -14,7 +14,4 @@ Feel free to check out my repositories or hit me up if you're up for a challenge
 - I'm a big advocate of **Zazen (meditation)** 🧘‍♂️, keeping that mind sharp!
 - I’m known for yapping half of the time and coding the other. 😄
 
-### 🌟 Let's connect:
-- Reach out if you want to discuss anything AI, data science, or just life at ETH! 📬
-
 ![GravityBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GravityBoi&show_icons=true&theme=radical)
